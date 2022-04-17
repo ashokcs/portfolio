@@ -1,0 +1,50 @@
+{
+  "main": {
+    "name":"Pioneer Web Services",
+    "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+    "image":"profilepic.jpg",
+    "contactmessage":"Pioneer Web Services committed to its customers is the value of Privacy. Feel free to contact us through any social media, as always your data is safe with us.",
+    "email": "support@awesumweb.com",
+    "phone": "+1 (413) 444-1493",
+    "address":{
+      "city":"Waterloo",
+      "state":"Ontario",
+      "zip": "NT2 2N8"
+    },
+    "website": "https://www.awesumweb.com/",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/awesumweb",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/awesumweb/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ashokcs",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:support@awesumweb.com?subject=Business%20Deal",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Pioneer Web Services has always been a Employee and Customer Centric company. They take care of our Employees and Customers, value them and they are celebrating us. And we truly believe Pioneer Web Services will take us to the path of success by easing our problems.",
+        "user":"Johny Players | CEO - Madur Auto Works"
+      },
+      {
+        "text":"Website management has been so easy after we started using Pioneer Web Services. The efficiency of website design has improved multifold.",
+        "user":"Jua Moana | CEO - Zoho"
+      }
+    ]
+  }
+}
